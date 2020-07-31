@@ -1,1 +1,2 @@
-my_name = 'David'
+my_name = 'Katy'
+this_girl = "ME"
