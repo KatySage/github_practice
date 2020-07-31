@@ -1,1 +1,1 @@
-# comment
+print("So long, sucker.")
